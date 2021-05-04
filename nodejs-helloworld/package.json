@@ -2,5 +2,9 @@
 	"name": "nodejs-hellowrold",
 	"dependencies": {
 		"express": "4.14.x"
-	}
+	"description": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"author": "Red Hat Training",
 }
